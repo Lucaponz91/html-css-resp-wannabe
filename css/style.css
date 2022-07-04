@@ -148,6 +148,9 @@ img {
     .steps .col {
         width: 100%;
     }
+    .why-us {
+        background-color: #222222;
+    }
     .why-us .col-left {
         width: 100%;
     }
